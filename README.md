@@ -12,4 +12,4 @@
   <li>Contact</li>
 <ul>
 
-<img src="https://picresize.com/popup.html?images/rsz_flexible-diet.jpg" width="600">
+
