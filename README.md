@@ -13,5 +13,7 @@
 <ul>
 <h3>Visuals</h3>
 
-<p><img src="https://suelenduarte.github.io/A-Guide-To-Flexible-Diet/images/flexible-diet.png" width = 600 height = 500></p>
+<div>
+  <img src="https://suelenduarte.github.io/A-Guide-To-Flexible-Diet/images/flexible-diet.png" width = 600 height = 500>
+</div>
 
