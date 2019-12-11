@@ -17,7 +17,7 @@
 
 <img src="https://suelenduarte.github.io/A-Guide-To-Flexible-Diet/images/img1.png" width = 250 height = 500> <img src="https://suelenduarte.github.io/A-Guide-To-Flexible-Diet/images/img2.png" width = 250 height = 500> 
 <img src="https://suelenduarte.github.io/A-Guide-To-Flexible-Diet/images/img3.png" width = 250 height = 500> <img src="https://suelenduarte.github.io/A-Guide-To-Flexible-Diet/images/img4.png" width = 250 height = 500>
-<img src="https://suelenduarte.github.io/A-Guide-To-Flexible-Diet/images/img5.png" width = 250 height = 500><img src="https://suelenduarte.github.io/A-Guide-To-Flexible-Diet/images/img6.png" width = 250 height = 500>
+<img src="https://suelenduarte.github.io/A-Guide-To-Flexible-Diet/images/img5.png" width = 250 height = 500> <img src="https://suelenduarte.github.io/A-Guide-To-Flexible-Diet/images/img6.png" width = 250 height = 500>
 
 
 
