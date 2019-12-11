@@ -12,4 +12,7 @@
   <li>Contact</li>
 <ul>
 
+<h3>Visuals</h3>
+
+<img src="https://suelenduarte.github.io/A-Guide-To-Flexible-Diet/images/flexible-diet.png" width = 250 height = 500>
 
